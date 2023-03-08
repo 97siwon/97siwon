@@ -1,8 +1,6 @@
 <div align="center">
-  <h2>💫Hi I'm Cool Lee💫</h2>
+  <h3>💫Hi I'm Cool Lee💫</h2>
 </div>
-<br>
------------------------
 <br>
 <div align="center">
     <h3>📚Tech Stack📚</h3>
@@ -24,7 +22,10 @@
 </div>
 <br>
 <br>
-![Siwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=97siwon&show_icons=true&theme=vue)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=97siwon&show_icons=true&include_all_commits=true&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97siwon&layout=compact&theme=vue">
+</p>
 <br>
 <br>
 
