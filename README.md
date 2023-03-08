@@ -1,13 +1,7 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/110653581/211256485-70828ec2-f6ed-459c-86f6-652190c5d32d.jpeg"/><br>
+  <h2>💫Hi I'm Cool Lee💫</h2>
 </div>
-  <h2>💫이름💫</h2>
-  <h4>Lee SiWon(이시원)</h4>
-  <br>
-  <h2>💫좌우명💫</h2>
-  <h4>내가 즐거운 삶을 살자!</h4>
 <br>
-
 -----------------------
 <br>
 <div align="center">
@@ -28,7 +22,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
 </div>
-
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=97siwon&show_icons=true&theme=radical)
 <br>
 <br>
 
