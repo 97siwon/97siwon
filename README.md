@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>💫Hi I'm Cool Lee💫</h2>
+  <h3>💫Hi, I'm Cool Lee💫</h2>
 </div>
 <br>
 <div align="center">
