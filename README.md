@@ -24,7 +24,7 @@
 </div>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=97siwon&show_icons=true&theme=radical)
+![Siwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=97siwon&show_icons=true&theme=vue)
 <br>
 <br>
 
